@@ -1,0 +1,29 @@
+{
+ "145411": {
+  "id": 28,
+  "count": 16,
+  "swaps": [
+   [
+    6,
+    "145411-07-front-interior.jpg",
+    461402,
+    479767,
+    "ed0fb8669e676ee99e03832df863ece7eec925b8e3274a71c05774cc6c3fa77c"
+   ],
+   [
+    7,
+    "145411-08-rear-seats.jpg",
+    431944,
+    447305,
+    "cfcfdeac40e82c561a2ca7d19be7be6e0a2117ca9cdcaada6d33e95f88c816b4"
+   ],
+   [
+    8,
+    "145411-09-sunroof.jpg",
+    472883,
+    502875,
+    "652310529add7257cb54834b20a3192b82a7cba557efda10defed9288771e468"
+   ]
+  ]
+ }
+}
